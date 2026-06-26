@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6d30f7c6b9484723b58591e33f1dd98, type: 3}
+  m_Name: reward_gold
+  m_EditorClassIdentifier: 
+  id: gold
+  kind: 0
+  displayName: Gold
+  baseAmount: 100
+  icon: {fileID: 21300000, guid: ea676dfbd0c9c49ffa5364b42ee4df57, type: 3}
+  stackable: 1

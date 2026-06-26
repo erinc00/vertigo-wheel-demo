@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4b809280588140cfabc62ab53a3c460, type: 3}
+  m_Name: wheel_safe
+  m_EditorClassIdentifier: 
+  wheelType: 1
+  wheelBaseSprite: {fileID: 21300000, guid: 55d22cc72a67544c59fde26aa5e1ba1d, type: 3}
+  indicatorSprite: {fileID: 21300000, guid: f505cf4a974d74edf94dc50eb822732a, type: 3}
+  slices:
+  - reward: {fileID: 11400000, guid: d113ef72562b64ddba7d83b8a5f06007, type: 2}
+    isBomb: 0
+    iconOverride: {fileID: 0}
+    weight: 1
+  - reward: {fileID: 11400000, guid: d112235a613f1419f8f54900c1d71f3b, type: 2}
+    isBomb: 0
+    iconOverride: {fileID: 0}
+    weight: 1
+  - reward: {fileID: 11400000, guid: 9403a524fbfb6484cb69915e4bcf8e22, type: 2}
+    isBomb: 0
+    iconOverride: {fileID: 0}
+    weight: 1
+  - reward: {fileID: 11400000, guid: 9ebda0f9d3e9a4ba5847bddb5cef26b3, type: 2}
+    isBomb: 0
+    iconOverride: {fileID: 0}
+    weight: 1
+  - reward: {fileID: 11400000, guid: d113ef72562b64ddba7d83b8a5f06007, type: 2}
+    isBomb: 0
+    iconOverride: {fileID: 0}
+    weight: 1
+  - reward: {fileID: 11400000, guid: d112235a613f1419f8f54900c1d71f3b, type: 2}
+    isBomb: 0
+    iconOverride: {fileID: 0}
+    weight: 1
+  - reward: {fileID: 11400000, guid: 44a1380b97f9e453fa41abc8a47b6bcd, type: 2}
+    isBomb: 0
+    iconOverride: {fileID: 0}
+    weight: 1
+  - reward: {fileID: 11400000, guid: 9ebda0f9d3e9a4ba5847bddb5cef26b3, type: 2}
+    isBomb: 0
+    iconOverride: {fileID: 0}
+    weight: 1
